@@ -19,10 +19,15 @@ End the program.
 #Developed by: Samyuktha.S
 
 #RegisterNumber:22005276
+
 import math as m
+
 l1=[4,2]
+
 l2=[10,6]
+
 d=m.sqrt((l2[0]-l1[0])**2+(l2[1]-l1[1])**2)
+
 print("{:.2f}".format(d))
 
 ### OUTPUT:
